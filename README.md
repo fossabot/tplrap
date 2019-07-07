@@ -5,7 +5,3 @@ System requirements
 ==================
 Operating system from Windows 7 to Windows 10  
 .Net Framework 4.7.2
-
-To remove this program, simply delete the TPLRAP folder from:  
-```C:\Program Files (x86)\TPLRAP (if you have 64 bit system)```  
-```C:\Program Files\TPLRAP (if you have a 32 bit system)```
